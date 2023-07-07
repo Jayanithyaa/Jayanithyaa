@@ -26,6 +26,6 @@ I'm Jayanithya Madhushani from Srilanka, and I do content on Design and Developm
 <br/>
 <center>
   
-![Jayanithya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jayanithyaa&show_icons=true&theme=transparent)<br/><br/>
+![Jayanithya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jayanithyaa&show_icons=true&theme=transparent)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jayanithyaa&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 </center>
