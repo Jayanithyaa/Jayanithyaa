@@ -16,7 +16,7 @@ PYTHON / JAVA / C / C++/ C# / REACT JS / JS / HTML / CSS / PHP / FIGMA
 
 
 # GitHub Stats:
-![Jayanithya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jayanithyaa&show_icons=true&theme=transparent)
+![Jayanithya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jayanithyaa&show_icons=true&theme=transparent)<t/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Jayanithyaa&theme=dark&hide_border=false)<br/><br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jayanithyaa&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ###
