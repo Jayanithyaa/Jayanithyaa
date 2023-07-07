@@ -20,7 +20,7 @@ I'm Jayanithya Madhushani from Srilanka, and I do content on Design and Developm
 
 <br/>
 <p align="center"> 
-  Visitor count<br>
+  Visitor count<br><br>
   <img src="https://profile-counter.glitch.me/Jayanithyaa/count.svg" />
 </p>
 <br/>
