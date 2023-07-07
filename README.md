@@ -1,11 +1,5 @@
 ![Design & Development](JAYANITHYA-4.png)
 <br/>
-<br/>
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/Jayanithyaa/count.svg" />
-</p>
-<br/>
 
 ## Hi there 👋 , I'm Jayanithya Madhushani
 #### Design & Development
