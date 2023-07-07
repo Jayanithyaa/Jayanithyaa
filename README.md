@@ -1,6 +1,6 @@
 <br/>
-<p align="center" font color="#38B6FF"> 
-  Visitor count<br><br>
+<p align="center"> 
+ Visitor count <br><br>
   <img src="https://profile-counter.glitch.me/Jayanithyaa/count.svg" />
 </p>
 <br/>
