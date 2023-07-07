@@ -5,6 +5,7 @@
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/Jayanithyaa/count.svg" />
 </p>
+<br/>
 
 ## Hi there 👋 , I'm Jayanithya Madhushani
 #### Design & Development
