@@ -1,4 +1,4 @@
-### Hi there 👋, Jayanithya Madhushani
+### Jayanithya Madhushani
 #### Design & Development
 ![Design & Development](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
