@@ -11,11 +11,11 @@ I'm Jayanithya Madhushani from Srilanka, and I do content on Design and Developm
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Jayanithyaa)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/jayanithya-madhushani-a5b306218/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/jayanithya.ekanayaka/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/jayanithya.cj//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg' alt='medium' height='40'>](https://medium.com/@jayanithyamadhushani)  
 
 
-# 👩‍💻 Skills: 
+# Skills: 
 PYTHON / JAVA / C / C++/ C# / REACT JS / JS / HTML / CSS / PHP / FIGMA
 
 
-# 📊 GitHub Stats:
+# GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Jayanithya&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/><br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Jayanithyaa&theme=dark&hide_border=false)<br/><br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jayanithyaa&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
