@@ -1,5 +1,5 @@
 <br/>
-<p align="center" color="#38B6FF"> 
+<p align="center" font color="#38B6FF"> 
   Visitor count<br><br>
   <img src="https://profile-counter.glitch.me/Jayanithyaa/count.svg" />
 </p>
