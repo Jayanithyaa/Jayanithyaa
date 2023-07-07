@@ -1,4 +1,4 @@
-![Design & Development](JAYANITHYA-3.png)
+![Design & Development](JAYANITHYA-4.png)
 <br/>
 <br/>
 <p align="center"> 
