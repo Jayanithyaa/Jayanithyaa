@@ -1,10 +1,12 @@
 ![Design & Development](JAYANITHYA-3.png)
-
+<br/>
+<br/>
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
 </p>
-
+<br/>
+<br/>
 
 # Hi there 👋, I'm Jayanithya Madhushani
 #### Design & Development
