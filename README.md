@@ -17,12 +17,12 @@ I'm Jayanithya Madhushani from Srilanka, and I do content on Design and Developm
 
 ##
 
-/*<br/>
+//<br/>
 <p align="center"> 
  Visitor count <br><br>
   <img src="https://profile-counter.glitch.me/Jayanithyaa/count.svg" />
 </p>
-<br/>*/
+<br/>
 
 ## GitHub Stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Jayanithyaa&theme=transparent&card_width=1000&fire=38B6FF&sideNums=EBEBEB&dates=38B6FF&ring=74DEEB&currStreakNum=EBEBEB)](https://git.io/streak-stats)<br/><br/>
