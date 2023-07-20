@@ -6,7 +6,7 @@
 
 I'm Jayanithya Madhushani from Srilanka, and I do content on Design and Development. I really enjoy learning languages and frameworks I also enjoy wireframing, ui, ux, and design in general.
 
-<br/>
+<br>
   
 [<img src='https://icons-for-free.com/iconfiles/png/512/coding+development+github+programming+social+icon-1320086085448562008.png' alt='github' height='40'>](https://github.com/Jayanithyaa)  [<img src='https://icons-for-free.com/iconfiles/png/128/circular+connection+linkedin+media+network+social+icon-1320086083918800883.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/jayanithya-madhushani-a5b306218/)  [<img src='https://icons-for-free.com/iconfiles/png/128/circular+facebook+media+share+social+icon-1320086084065682913.png' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/jayanithya.ekanayaka/)  [<img src='https://icons-for-free.com/iconfiles/png/128/circle+instagram+media+photo+round+social+icon-1320086083073447633.png' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/jayanithya.cj//)  [<img src='Untitled design-4.png' alt='medium' height='40'>](https://medium.com/@jayanithyamadhushani)  
 
